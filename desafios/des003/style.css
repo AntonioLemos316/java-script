@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+div#botao {
+  font: normal 1.1em Arial;
+  border: 1px solid rgba(0, 0, 0, 0.158);
+  background: rgba(0, 0, 0, 0.205);
+  width: 190px;
+  height: 20px;
+  padding: 20px;
+  text-align: center;
+}

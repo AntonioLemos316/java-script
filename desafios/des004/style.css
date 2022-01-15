@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.quadrado {
+  font: normal 1.1em Arial;
+  border: 1px solid rgba(0, 0, 0, 0.192);
+  background-color: rgba(0, 0, 0, 0.075);
+  width: 150px;
+  padding: 20px;
+  text-align: center;
+}
